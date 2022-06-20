@@ -4,5 +4,5 @@
   
 Estamos aprendendo&#128151;
   
-  <img src="images.githubusercontent.com/106534729/174613879-4ba169dc-54a2-4c14-bc62-e77d1300869e.jpg)" alt="imagem 1 da minha página">
-![download](https://user-images.githubusercontent.com/106534729/174613879-4ba169dc-54a2-4c14-bc62-e77d1300869e.jpg)
+  <img src="https://pm1.narvii.com/6962/3db7e7f4eda29ad51585873a8a21ac5248641043r1-540-725v2_hq.jpg" alt="imagem 1 da minha página">
+
