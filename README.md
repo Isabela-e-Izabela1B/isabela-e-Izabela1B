@@ -4,13 +4,17 @@
 
 Estamos aprendendo :)<b><i><!DOCTYPE html>
 <html>
+<head>
+<meta charset="UTF-8">
+</head>
 <body>
-
 ​
-<h2>&#128515;</h2>
+<h1>Sized Emojis</h1>
+​
+<p style="font-size:48px">
+&#128512; &#128516; &#128525; &#128151;
+</p>
 ​
 </body>
 </html>
 ​
-
-
