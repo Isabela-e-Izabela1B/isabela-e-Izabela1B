@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<b></b>Somos alunas de pensamento computacional com a prof Arianne Brao<b></b>
+Somos alunas de pensamento computacional com a prof Arianne Brao
 
-<b></b>Estamos aprendendo :)<b></b>
+Estamos aprendendo :)
 
+<b></b>
+ffdgfg
+<html>
