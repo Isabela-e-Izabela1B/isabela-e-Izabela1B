@@ -4,5 +4,5 @@
   
 Estamos aprendendo&#128151;
   
-  <img src="https://pm1.narvii.com/6962/3db7e7f4eda29ad51585873a8a21ac5248641043r1-540-725v2_hq.jpg" alt="imagem 1 da minha página">
+  <img src="https://www.purina-latam.com/sites/g/files/auxxlc391/files/styles/kraken_generic_max_width_960/public/2021-10/comunicacao-gatos.jpg?itok=YRou6r1C" alt="imagem 1 da minha página">
 
