@@ -5,8 +5,7 @@
 Estamos aprendendo :)<b><i><!DOCTYPE html>
 <html>
 <body>
-​
-<h1>HTML Emoji Example</h1>
+
 ​
 <h2>&#128515;</h2>
 ​
